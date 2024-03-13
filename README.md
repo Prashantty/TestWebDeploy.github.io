@@ -1,13 +1,7 @@
-# Prashant Kumar - Full Stack Developer
 
-This is a simple landing page created with HTML and CSS, showcasing the skills and contact information of Prashant Kumar, a Full Stack Developer specializing in MERN stack.
+## Hosting
 
-## Table of Contents
-
-- [About](#about)
-- [Contact](#contact)
-- [Hosting](#hosting)
-- [License](#license)
+This landing page is hosted using GitHub Pages. You can view it live ([https://prashantkumar9991.github.io/](https://prashantty.github.io/deployTest.github.io/)).
 
 ## About
 
@@ -21,10 +15,6 @@ For inquiries or collaboration opportunities, feel free to reach out to Prashant
 - **Phone:** 9155945343
 - **LinkedIn:** [Prashant Kumar](https://www.linkedin.com/in/prashantkumar9991/)
 - **GitHub:** [prashantkumar9991](https://github.com/prashantkumar9991)
-
-## Hosting
-
-This landing page is hosted using GitHub Pages. You can view it live [here](https://prashantkumar9991.github.io/).
 
 ## License
 
