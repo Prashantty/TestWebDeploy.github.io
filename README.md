@@ -3,6 +3,11 @@
 
 This landing page is hosted using GitHub Pages. You can view it live ([https://prashantkumar9991.github.io/](https://prashantty.github.io/deployTest.github.io/)).
 
+## Github Action Setup 
+Please note that this also includes the automatic setup of GitActions, which is demonstrated below.
+
+![image](https://github.com/Prashantty/deployTest.github.io/assets/95084475/b1f0256c-987c-4a59-87d0-329d2181433a)
+
 ## About
 
 This landing page is made with simple HTML and CSS, providing a brief introduction to Prashant Kumar and his expertise in Full Stack Development with a focus on MERN stack.
