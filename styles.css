@@ -1,11 +1,18 @@
-/* CSS for landing page */
-
-body {
-    font-family: Arial, sans-serif;
+/* Reset default margin and padding */
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+/* Header styles */
 header {
     background-color: #333;
     color: #fff;
@@ -13,10 +20,44 @@ header {
     padding: 40px 0;
 }
 
-section {
-    padding: 20px;
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
 }
 
+header p {
+    font-size: 18px;
+}
+
+/* Section styles */
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+section ul {
+    list-style-type: none;
+}
+
+section ul li {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Footer styles */
 footer {
     background-color: #333;
     color: #fff;
@@ -25,4 +66,8 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+
+footer p {
+    font-size: 14px;
 }
