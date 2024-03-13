@@ -10,7 +10,7 @@ Please note that this also includes the automatic setup of GitActions which incl
    - **Report Build Status**
    - **Deploy to the Github pages**
 
-# Demonstrated 
+### Demonstrated 
 ![image](https://github.com/Prashantty/deployTest.github.io/assets/95084475/b1f0256c-987c-4a59-87d0-329d2181433a)
 
 ## About
