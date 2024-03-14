@@ -23,8 +23,8 @@ For inquiries or collaboration opportunities, feel free to reach out to Prashant
 
 - **Email:** prashantkr9991@gmail.com
 - **Phone:** 9155945343
-- **LinkedIn:** [Prashant Kumar](https://www.linkedin.com/in/prashantkumar9991/)
-- **GitHub:** [prashantkumar9991](https://github.com/prashantkumar9991)
+- **LinkedIn:** [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-5943531b9/)
+- **GitHub:** [prashantkumar9991](https://github.com/Prashantty)
 
 ## License
 
